@@ -1,0 +1,11 @@
+# Produto pago e materiais privados — NUNCA publicar
+*.pdf
+Area de Membros/
+PDFs comprimidos/
+Cakto/
+site/
+index-v1-renato.html
+
+# Fotos originais em alta (o site usa as versões .webp em assets/)
+/*.jpg
+/*.png
